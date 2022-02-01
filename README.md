@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Barb02
+- 👀 I’m interested in learning more about programming in general
+- 🌱 I’m currently learning web development, front-end
+- 💞️ I’m looking to collaborate on web development, front-end projects
+- 📫 How to reach me: @barnobregali02@gmail.com, https://www.linkedin.com/in/b%C3%A1rbara-n%C3%B3brega-galiza-5798a622b
